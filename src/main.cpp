@@ -1117,7 +1117,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
 	
 	nSubsidy = nSubsidy * modNumber;
 	
-	//premined 5% for dev, support, bounty, and giveaway etc
+	//premined 8% for dev, support, bounty, and giveaway etc
 	if(nHeight > 9 && nHeight < 128){
 		nSubsidy = 350000000 * COIN;
 	}
