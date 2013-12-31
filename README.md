@@ -2,7 +2,7 @@ Dimecoin 0.8.3 BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2013 Dimecoin Developers
+Copyright (c) 2013-2014 Dimecoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -23,6 +23,7 @@ Setup
 ---------------------
 You need the Qt4 run-time libraries to run Dimecoin-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
+
 
 
 Other Pages
