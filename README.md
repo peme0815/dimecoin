@@ -1,4 +1,4 @@
-Dimecoin 0.8.3 BETA
+Dimecoin 1.6.9 BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
