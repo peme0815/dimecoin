@@ -28,12 +28,6 @@ You need the Qt4 run-time libraries to run Dimecoin-Qt. On Debian or Ubuntu:
 
 Other Pages
 ---------------------
-- [Unix Build Notes](build-unix.md)
-- [OSX Build Notes](build-osx.md)
-- [Windows Build Notes](build-msw.md)
-- [Coding Guidelines](coding.md)
-- [Release Process](release-process.md)
-- [Release Notes](release-notes.md)
-- [Multiwallet Qt Development](multiwallet-qt.md)
-- [Unit Tests](unit-tests.md)
-- [Translation Process](translation_process.md)
+Compiling and configuring Dimecoin-Qt from source on Ubuntu.
+
+https://www.youtube.com/watch?v=yW1-kSrQM10
