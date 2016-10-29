@@ -21,13 +21,7 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the Qt4 run-time libraries to run Dimecoin-Qt. On Debian or Ubuntu:
-	`sudo apt-get install libqtgui4`
 
-
-
-Other Pages
----------------------
 Compiling and configuring Dimecoin-Qt from source on Ubuntu.
 
 https://www.youtube.com/watch?v=yW1-kSrQM10
